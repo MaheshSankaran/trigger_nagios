@@ -1,0 +1,11 @@
+---
+ref: trigger_nagios
+name : trigger_nagios
+description : A super cool python pack
+keywords:
+  - python3
+version: 0.0.1
+python_versions:
+  - "3"
+author : Mahesh
+email : mahesh@test.com
