@@ -1,7 +1,7 @@
 ---
 ref: trigger_nagios
 name : trigger_nagios
-description : A super cool python pack
+description : Test python pack
 keywords:
   - python3
 version: 0.0.1
